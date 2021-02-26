@@ -1,0 +1,14 @@
+Login Error
+- Username not found, Please Try Again or Register. //ไม่พบชื่อผู้ใช้
+- Wrong password, Please Try Again. //พาสเวริดผิด
+- Please enter your username...//กรุณากรอกชื่อผู้ใช่เพื่อเข้าใช้งาน
+- Please enter your password...//กรุณากรอกพาสเวริดเพื่อเข้าใช้งาน
+
+Register Error
+- This username is already in use.//ชื่อผู้ใช้นี้ถูกใช้งานแล้ว
+- Please complete all information.//กรุณากรอกข้อมูลให้ครบถ้วน
+
+Re-Password Error
+- Username not found, Please Try Again or Register. //ไม่พบชื่อผู้ใช้
+- Wrong answer... //คำตอบยืนยันตัวตนผิด
+- Please complete all information.//กรุณากรอกข้อมูลให้ครบถ้วน

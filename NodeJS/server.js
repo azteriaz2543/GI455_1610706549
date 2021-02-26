@@ -2,7 +2,7 @@ var websocket = require("ws"); //using
 
 var websocketServer = new websocket.Server({port:25500},()=>
 {
-	console.log("Azterland is running");
+	console.log("Server is running");
 });
 
 var wsList = [];
